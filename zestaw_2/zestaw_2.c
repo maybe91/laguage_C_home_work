@@ -96,6 +96,5 @@ int main() {
 
 
 
-// gcc -o program zestaw_2/zestaw_2.c  zestaw_2/suma_multizbiorow.c zestaw_2/przeciecie_multizbiorow.c zestaw_2/roznica_multizbiorow.c zestaw_2/roznica_symetryczna_multizbiorow.c zestaw_2/r
-//        ownosc_multizbiorow.c zestaw_2/sprawdzanie_podzbiorow.c zestaw_2/testy.c
+// gcc -o program zestaw_2/zestaw_2.c  zestaw_2/suma_multizbiorow.c zestaw_2/przeciecie_multizbiorow.c zestaw_2/roznica_multizbiorow.c zestaw_2/roznica_symetryczna_multizbiorow.c zestaw_2/rownosc_multizbiorow.c zestaw_2/sprawdzanie_podzbiorow.c zestaw_2/testy.c
 // ./program
