@@ -4,7 +4,7 @@ project(untitled C)
 set(CMAKE_C_STANDARD 11)
 
 add_executable(untitled
-        zestaw_2/zestaw_2.c
+        zestaw_3/main.c
 
 )
 
