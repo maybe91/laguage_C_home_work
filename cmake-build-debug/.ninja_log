@@ -1,12 +1,10 @@
 # ninja log v5
 1	761	7314336472232281	CMakeFiles/untitled.dir/main.c.obj	b3d1537227b60870
-542	707	7354021880989613	untitled.exe	8de223df2773db49
 2	658	7346279936088698	CMakeFiles/untitled.dir/zestaw_2/zestaw_2.c.obj	3efb62d73dbf8d11
-4	541	7354021879368120	CMakeFiles/untitled.dir/zestaw_3/main.c.obj	35d24ed906ca282c
-80	917	7356619786468562	build.ninja	f989b23217bb8384
+3	562	7356621376955000	CMakeFiles/untitled.dir/zestaw_3/main.c.obj	35d24ed906ca282c
+880	2307	7369603023126717	untitled.exe	d10c8a7e0d5532ae
+1	320	7370443660413976	build.ninja	f989b23217bb8384
 4	517	7317193901123910	CMakeFiles/untitled.dir/Zestaw_1.1.c.obj	d918a381e28e62c1
 48	497	7314659549006347	CMakeFiles/untitled.dir/Zestaw_1.2.c.obj	4c76c1078e17537e
-3	658	7356621089531578	CMakeFiles/untitled.dir/zestaw_3/main.c.obj	35d24ed906ca282c
-670	1749	7356621100398730	untitled.exe	8de223df2773db49
-3	562	7356621376955000	CMakeFiles/untitled.dir/zestaw_3/main.c.obj	35d24ed906ca282c
-563	752	7356621378800055	untitled.exe	8de223df2773db49
+4	484	7367831021887420	CMakeFiles/untitled.dir/zestaw_4/main.c.obj	b26e1fec14939491
+1	879	7369603008933005	CMakeFiles/untitled.dir/zestaw_4/tail.c.obj	bc294219597cd7ec
