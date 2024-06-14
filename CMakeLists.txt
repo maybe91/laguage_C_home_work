@@ -4,7 +4,7 @@ project(untitled C)
 set(CMAKE_C_STANDARD 11)
 
 add_executable(untitled
-        zestaw_5/rectangular_map.c
+        zestaw_6/Zadanie_1.c
 
 
 )
