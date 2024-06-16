@@ -1,10 +1,10 @@
 # ninja log v5
 1	761	7314336472232281	CMakeFiles/untitled.dir/main.c.obj	b3d1537227b60870
-5	573	7400779562781260	CMakeFiles/untitled.dir/zestaw_6/Zadanie_1.c.obj	a1f3ca437f0ca107
+0	502	7402547982589241	CMakeFiles/untitled.dir/zestaw_6/Zadanie_1.c.obj	a1f3ca437f0ca107
 2	658	7346279936088698	CMakeFiles/untitled.dir/zestaw_2/zestaw_2.c.obj	3efb62d73dbf8d11
 3	562	7356621376955000	CMakeFiles/untitled.dir/zestaw_3/main.c.obj	35d24ed906ca282c
-574	831	7400779565055183	untitled.exe	7300c08798140285
-1	464	7400812647569144	build.ninja	f989b23217bb8384
+617	1009	7402547259872009	untitled.exe	75c4000ca557272a
+0	392	7402548312688679	build.ninja	f989b23217bb8384
 4	517	7317193901123910	CMakeFiles/untitled.dir/Zestaw_1.1.c.obj	d918a381e28e62c1
 48	497	7314659549006347	CMakeFiles/untitled.dir/Zestaw_1.2.c.obj	4c76c1078e17537e
 4	484	7367831021887420	CMakeFiles/untitled.dir/zestaw_4/main.c.obj	b26e1fec14939491
@@ -12,6 +12,11 @@
 2	516	7380583280652505	CMakeFiles/untitled.dir/zestaw_5/move_direction.c.obj	343571adcd651bfb
 0	441	7380583462048160	CMakeFiles/untitled.dir/zestaw_5/vector.c.obj	152afe4e2e0c3926
 3	1454	7381607509998205	CMakeFiles/untitled.dir/zestaw_5/car.c.obj	f46fbe7b7acca399
-3	943	7385267600186006	CMakeFiles/untitled.dir/zestaw_5/rectangular_map.c.obj	26bb79c681e04545
+0	503	7402363305986775	CMakeFiles/untitled.dir/zestaw_5/rectangular_map.c.obj	26bb79c681e04545
 3	543	7399222051756267	CMakeFiles/untitled.dir/zestaw_6/zadanie_2.c.obj	d6a57b2f7e67711a
-2	1305	7400771606865907	CMakeFiles/untitled.dir/zestaw_6/Zadanie_2.c.obj	43b6396562a41965
+2	616	7402547255969027	CMakeFiles/untitled.dir/zestaw_6/Zadanie_2.c.obj	43b6396562a41965
+0	568	7402363531732024	CMakeFiles/untitled.dir/zestaw_6/test_1.c.obj	a0065fda3fb10ac1
+4	590	7402373328568887	CMakeFiles/untitled.dir/zestaw_6/test_2.c.obj	639a92a7a1af46f9
+1	202	7402548312688679	build.ninja	f989b23217bb8384
+1	527	7402548318273747	CMakeFiles/untitled.dir/zestaw_6/test_1.c.obj	a0065fda3fb10ac1
+527	689	7402548319859511	untitled.exe	910e695c6e6d8703

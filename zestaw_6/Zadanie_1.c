@@ -11,7 +11,7 @@ int get(Element e, const int *matrix) {
     return matrix[e.row * e.cols_num + e.col];
 }
 
-int * max_matrix_row_or_col_element(bool horizontal, int rowsA, int colsA, int rowsB, int colsB, int *A, int *B) {
+int *max_matrix_row_or_col_element(bool horizontal, int rowsA, int colsA, int rowsB, int colsB, int *A, int *B) {
     if (horizontal) {
         if (colsA != colsB) return NULL;
         int *result = malloc(colsA * sizeof(int));
