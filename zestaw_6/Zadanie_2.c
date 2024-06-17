@@ -1,5 +1,3 @@
-Miejsce zajęte w 86% … Jeśli zabraknie Ci miejsca, stracisz możliwość tworzenia i edytowania plików, a także ich przesyłania. Zyskaj 100 GB miejsca na dane przez 1 miesiąc za 8,99 zł 2,25 zł (cena przygotowana specjalnie dla Ciebie).
-#include <assert.h>
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
